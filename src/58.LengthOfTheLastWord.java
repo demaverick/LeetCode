@@ -1,4 +1,5 @@
 class Solution {
+    // Small Change
     public int lengthOfLastWord(String s) {
         int currentWordLength = 0, maxWordLength = 0;
         for (int i = 0; i< s.length(); i++){
